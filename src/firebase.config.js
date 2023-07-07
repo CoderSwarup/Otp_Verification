@@ -6,12 +6,12 @@ import { getAuth } from 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDnLKnYUCNYXT4nW58QubWRjEZvlIHwop8",
-    authDomain: "phone-verification-188ab.firebaseapp.com",
-    projectId: "phone-verification-188ab",
-    storageBucket: "phone-verification-188ab.appspot.com",
-    messagingSenderId: "882982969857",
-    appId: "1:882982969857:web:568be1e76d412b18dbd600"
+    apiKey: // Your api firebase key,
+    authDomain: //firebase domain,
+    projectId: // your project id,
+    storageBucket: // ,
+    messagingSenderId:// example any random number if demo project,
+    appId: // your app id 
 };
 
 // Initialize Firebase
